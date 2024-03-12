@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2024-02-28T14:34:55.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="aPn5rpqw8f1mkSun68-6" version="23.1.7" type="device">
+  <diagram name="Страница — 1" id="plY1VnbAn4ugUS9AdPtO">
+    <mxGraphModel dx="1861" dy="728" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4VF-CWCv_t1aKfSi3AJW-15" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4VF-CWCv_t1aKfSi3AJW-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-211" y="623" as="sourcePoint" />
+            <mxPoint x="80" y="542" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bx6N3jh_7O-Svxjcynl9-1" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79" y="427" as="sourcePoint" />
+            <mxPoint x="79.25" y="356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1PZCTdkvqiuREmXUbnLu-1" value="Цель: увеличить процент семей, пользующихся дистанционными услугами на 20% за счет улучшения качества и доступности услуг во временной промежуток 2022-2023гг. Интересант: Правительство республики Татарстан вкладывается (в том числе финансово) в развитие дистанционных услуг, для улучшения качества жизнедеятельности населения республики.&lt;br&gt;В проекте также участвует компания DuoTech - техническая компания, разрабатывающая автоматизированные системы социального портала государственных услуг.&lt;br&gt;&amp;nbsp;Цель компании внедрить новую цифровую платформу &quot;1С:Народ&quot; за 3 месяца, затратив менее 600т. р." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-88.75" y="77" width="337" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="1PZCTdkvqiuREmXUbnLu-5" value="Подцель: Провести обучение сотрудников ( все роли взаимодействия с системой) по взаимодействию с пользователями за 2 недели, затратив менее 40 т. р. Интересант: Teamleader компании DuoTech, который предоставляет возможности и пространство для обучения нового персонала и контролирует этот процесс." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d896c;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-362" y="426" width="260" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="1PZCTdkvqiuREmXUbnLu-6" value="Подцель: Разработать МДО цифровой платформы за 20 часов, затратив менее 20 т. р. Интересант: Технический руководитель компании DuoTech, который&amp;nbsp;&lt;br&gt;&amp;nbsp;руководит процессом написания документации." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d896c;" parent="1" vertex="1">
+          <mxGeometry x="-63" y="423" width="279" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="1PZCTdkvqiuREmXUbnLu-7" value="Подцель: Разработать новую цифровую платформу за 2 месяца, затратив менее 540 т. р. Интересант: Архитектор компании DuoTech, который&amp;nbsp; занимается проектированием архитектуры ПО и руководит главными этапами его создания." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d896c;" parent="1" vertex="1">
+          <mxGeometry x="261" y="419" width="301" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="1PZCTdkvqiuREmXUbnLu-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Задачи:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Предоставить документацию по обучению пользователей в течение 2 рабочих дней без затрат.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Провести обучение первой фокус-группы пользователей, задействуя новый персонал, в течение 5 рабочих дней без затрат.&lt;/li&gt;&lt;li&gt;Исправить и отладить все неудавшиеся процессы в течение одного дня без затрат.&lt;/li&gt;&lt;li&gt;Провести тестирование уже с реальными пользователями по работе с платформой &quot;1С:Народ&quot; в течение 5 рабочих дней, затратив менее 40 т. р.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;В процессе обучения задействованы новые сотрудники компании, такие как call-операторы, руководитель, администратор.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-366" y="603" width="270" height="317" as="geometry" />
+        </mxCell>
+        <mxCell id="4VF-CWCv_t1aKfSi3AJW-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Задачи&amp;nbsp;:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Проанализировать бизнес-процессы предметной области в течение 3 часа, без затрат.&lt;/li&gt;&lt;li&gt;Разработать полную документацию по проекту в течение 6 часов, без затрат.&lt;/li&gt;&lt;li&gt;Разработать требования к программному продукту в течение 3 часов, без затрат.&lt;/li&gt;&lt;li&gt;Разработать МДО &quot;1С:Народ&quot; в течение 3 часов, затратив менее 20 т. р.&lt;/li&gt;&lt;li&gt;Предоставить МДО &quot;1С:Народ&quot; и утвердить для дальнейшей разработки программного продукта в течение 3 часа, без затрат.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;В разработке МДО участвуют&amp;nbsp;несколько технических&amp;nbsp;специалистов и бизнес-аналитиков, менеджеров, поэтому каждая задача проходит параллельно, результаты работы&amp;nbsp;предоставляются в течение 20 часов, затраты не превышают 20 т. р.&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-58.5" y="606" width="276.5" height="312" as="geometry" />
+        </mxCell>
+        <mxCell id="4VF-CWCv_t1aKfSi3AJW-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Задачи&amp;nbsp;:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Разработать объектную модель ЦП в течение недели, затратив 108 т. р.&lt;/li&gt;&lt;li&gt;Разработать цифровой продукт&amp;nbsp;в течение 3 недель, затратив 108 т. р.&lt;/li&gt;&lt;li&gt;Разработать техническую документацию&amp;nbsp;в течение недели, затратив 108 т. р.&lt;/li&gt;&lt;li&gt;Протестировать цифровой продукт&amp;nbsp;в течение недели, затратив 54 т. р.&lt;/li&gt;&lt;li&gt;Сопровождать процесс внедрения и эксплуатации цифрового продукта&amp;nbsp;в течение 2 недель, затратив 162 т. р.&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;В разработке продукта участвуют главным образом архитектор проекта, разработчики, тестировщики, технические писатели, а также персонал по внедрению и сопровождению эксплуатации (системный администратор), результаты работы предоставляются в течение 2 месяцев, затраты не превышают 580 т. р.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="271" y="603" width="281" height="316" as="geometry" />
+        </mxCell>
+        <mxCell id="4VF-CWCv_t1aKfSi3AJW-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-241" y="355" as="sourcePoint" />
+            <mxPoint x="407" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4VF-CWCv_t1aKfSi3AJW-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-239" y="422" as="sourcePoint" />
+            <mxPoint x="-239" y="353" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4VF-CWCv_t1aKfSi3AJW-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="406" y="418" as="sourcePoint" />
+            <mxPoint x="406" y="354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4VF-CWCv_t1aKfSi3AJW-11" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="1PZCTdkvqiuREmXUbnLu-8" target="1PZCTdkvqiuREmXUbnLu-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79" y="432" as="sourcePoint" />
+            <mxPoint x="79" y="316" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4VF-CWCv_t1aKfSi3AJW-12" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4VF-CWCv_t1aKfSi3AJW-2" target="1PZCTdkvqiuREmXUbnLu-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-221" y="613" as="sourcePoint" />
+            <mxPoint x="-222" y="558" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bx6N3jh_7O-Svxjcynl9-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.25" y="355" as="sourcePoint" />
+            <mxPoint x="79.5" y="284" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
